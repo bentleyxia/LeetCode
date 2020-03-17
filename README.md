@@ -18,7 +18,9 @@
 6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|java|Medium|String	
 8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|java|Medium|Math String
 11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|java|Medium|Array TwoPointer
+15|[3Sum](https://leetcode.com/problems/3sum/)|[java](src/com/bentleyxia/Medium/ThreeSum.java)|Medium|Array TwoPointer
 ## Hard
+
 \#|Title|Solution|Difficulty|Tag
 :---|:---|:---|:---|:---
 4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|java|Hard|Array BinarySearch DivideAndConquer	
