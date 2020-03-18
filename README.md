@@ -7,6 +7,7 @@
 1|[Two Sum](https://leetcode.com/problems/two-sum/)|[java](src/com/bentleyxia/Easy/TwoSum.java)|Easy|Array HashTable
 7|[Reverse Integer](https://leetcode.com/problems/zigzag-conversion)|java|Easy|Math	
 9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|java|Easy|Math	
+53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[java](src/com/bentleyxia/Medium/MaximumSubarray.java)|Easy|DP
 
 ## Medium
 
@@ -19,7 +20,10 @@
 8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|java|Medium|Math String
 11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|java|Medium|Array TwoPointer
 15|[3Sum](https://leetcode.com/problems/3sum/)|[java](src/com/bentleyxia/Medium/ThreeSum.java)|Medium|Array TwoPointer
+91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[java](src/com/bentleyxia/Medium/DecodeWays.java)|Medium|DP
+
 ## Hard
+
 
 \#|Title|Solution|Difficulty|Tag
 :---|:---|:---|:---|:---
