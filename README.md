@@ -7,7 +7,8 @@
 1|[Two Sum](https://leetcode.com/problems/two-sum/)|[java](src/com/bentleyxia/Easy/TwoSum.java)|Easy|Array HashTable
 7|[Reverse Integer](https://leetcode.com/problems/zigzag-conversion)|java|Easy|Math	
 9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|java|Easy|Math	
-53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[java](src/com/bentleyxia/Medium/MaximumSubarray.java)|Easy|DP
+53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[java](src/com/bentleyxia/Easy/MaximumSubarray.java)|Easy|DP
+88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[java](src/com/bentleyxia/Easy/MergeSortedArray.java)|Easy|TwoPointer
 
 ## Medium
 
