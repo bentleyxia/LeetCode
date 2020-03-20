@@ -21,6 +21,7 @@
 8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|java|Medium|Math String
 11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|java|Medium|Array TwoPointer
 15|[3Sum](https://leetcode.com/problems/3sum/)|[java](src/com/bentleyxia/Medium/ThreeSum.java)|Medium|Array TwoPointer
+50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[java](src/com/bentleyxia/Medium/Pow.java)|Medium|Math BinarySearch Recursion
 91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[java](src/com/bentleyxia/Medium/DecodeWays.java)|Medium|DP
 
 ## Hard
