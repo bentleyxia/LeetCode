@@ -5,6 +5,7 @@
 | \#  | Title                                                                             | Solution                                                   | Difficulty | Tag              |
 | :-- | :-------------------------------------------------------------------------------- | :--------------------------------------------------------- | :--------- | :--------------- |
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [java](src/com/bentleyxia/Easy/LetterCasePermutation.java) | Easy       | BackTracking DFS |
+| 22  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)       | [java](src/com/bentleyxia/Medium/GenerateParentheses.java) | Medium     | BackTracking DFS |
 
 ## Easy
 
