@@ -2,11 +2,12 @@
 
 ## Search
 
-| \#  | Title                                                                             | Solution                                                   | Difficulty | Tag              |
-| :-- | :-------------------------------------------------------------------------------- | :--------------------------------------------------------- | :--------- | :--------------- |
-| 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [java](src/com/bentleyxia/Easy/LetterCasePermutation.java) | Easy       | BackTracking DFS |
-| 22  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)       | [java](src/com/bentleyxia/Medium/GenerateParentheses.java) | Medium     | BackTracking DFS |
-|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[java](src/som/bentleyxia/Medium/LetterCombinationsOfaPhoneNumber) Medium| BackTracking DFS|
+| \#  | Title                                                                                                         | Solution                                                                  | Difficulty       | Tag              |
+| :-- | :------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------ | :--------------- | :--------------- |
+| 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)                             | [java](src/com/bentleyxia/Easy/LetterCasePermutation.java)                | Easy             | BackTracking DFS |
+| 22  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                   | [java](src/com/bentleyxia/Medium/GenerateParentheses.java)                | Medium           | BackTracking DFS |
+| 17  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [java](src/som/bentleyxia/Medium/LetterCombinationsOfaPhoneNumber) Medium | BackTracking DFS |
+| 79  | [Word Search](https://leetcode.com/problems/word-search/)                                                     | [java](src/com/bentleyxia/WordSearch.java)                                | Medium           | BackTracking DFS |
 
 ## Easy
 

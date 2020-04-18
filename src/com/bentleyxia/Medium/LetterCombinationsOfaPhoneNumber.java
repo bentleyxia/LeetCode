@@ -11,6 +11,7 @@ Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
 
 public class LetterCombinationsOfaPhoneNumber {
 
+    // DFS
     public List<String> letterCombinations(String digits) {
         ArrayList<String> al = new ArrayList<String>();
         StringBuilder sb = new StringBuilder(digits);
@@ -34,4 +35,27 @@ public class LetterCombinationsOfaPhoneNumber {
         }
 
     }
+
+
+    // BFS
+    public List<String> letterCombinations(String digits) {
+        ArrayList<String> ans = new ArrayList<String>();
+        if (digits.length() > 0)
+            ans.add("");
+
+        for (char digit : digits.toCharArray()) { // Search by depth
+            ArrayList<String> tmp = new ArrayList<>();
+            for (String s : ans) {  // copy and add elements in the end of ans
+                for (char ch : str[Character.getNumericValue(digit)].toCharArray()) { // Search by elements
+                    tmp.add(s + ch);
+                }
+            }
+            ans = tmp;
+        }
+
+        return ans;
+    }
+
+    public final String[] str = new String[] { "", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz" };
+
 }
